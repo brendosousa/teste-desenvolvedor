@@ -1,4 +1,4 @@
-# teste-desenvolvedor
+# Teste de Desenvolvedor (Target)
 
-## Respostas para o teste de desenvolvedor da Target Sistemas
+Respostas para  questões do teste de desenvolvedor da Target Sistemas
 
